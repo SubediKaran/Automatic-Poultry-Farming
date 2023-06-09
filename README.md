@@ -30,11 +30,30 @@ Keywords: Poultry, Temperature, Humidity, Automation, Feeding, Water Supply, Aut
 3 Arduino IDE
 
 ## BLOCK DIAGRAM
+![Screenshot 2023-06-09 144544](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/d5bebd49-3f41-4695-827a-5b4ffd66070f)
 
 ## FLOWCHART
 
+### Flowchart for Environmental Management
+
+![Flowchart1](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/8bcda26c-2e11-48f8-b83f-f521594fdf46)
+
+### Flowchart for Watering and Feeding System
+
+![Flowchart2](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/d467b44d-f6cd-4411-b0f5-180b8428934d)
+
 ## CIRCUIT DIAGRAM
+![circuit diagram](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/dd5a67ce-5da9-44be-bac1-302f65636ce7)
+
+## EXPERIMENTAL SETUP
+
+![Picture1](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/24ef7d67-92ab-41c1-8405-91202d4cc060)
+![Picture2](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/ba424191-b58c-4cb9-8dd2-ca3805a3c7e7)
+![Picture3](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/fb7ffd4c-a260-41a0-9360-1d8f3d8bb05d)
+![Picture4](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/83ba575d-d8f2-4c4b-b731-f3147e35a92f)
 
 
+## SOFTWARE IMPLEMENTATION
 
+![Picture5](https://github.com/SubediKaran/Automatic-Poultry-Farming/assets/107947242/3229e796-4a48-4999-819e-c5e943ab3517)
 
